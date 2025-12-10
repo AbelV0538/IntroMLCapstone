@@ -3,7 +3,7 @@
 **Course:** ITCS 5356 - Applied Machine Learning  
 **Semester:** Fall 2025  
 **Author:** Abel Varghese  
-**Dataset:** Ames Housing - Advanced Regression Techniques (Kaggle)
+**Dataset:** Ames Housing - Advanced Regression Techniques (Kaggle): https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
 ---
 
@@ -42,8 +42,6 @@ Utility functions for model evaluation metrics and comparison visualizations.
 
 ### Documentation
 
-**`technical_report.md`**  
-IEEE-format technical report (1500+ words) with methodology, results, discussion, and conclusions.
 
 **`README.md`**  
 This file - project overview and file descriptions.
