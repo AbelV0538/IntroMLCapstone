@@ -60,3 +60,18 @@ Example submission format for Kaggle competition.
 ---
 
 **Note:** All models use `random_state=42` for reproducibility. The Kaggle `test.csv` is not used as it lacks ground truth labels; instead, a 3-way split from `train.csv` provides train/validation/test sets.
+
+References:
+H. Sharma, H. Harsora, and B. Ogunleye, "An Optimal House Price Prediction Algorithm: XGBoost," Analytics, vol. 3, no. 1, pp. 30-45, 2024. doi: 10.3390/analytics3010003. https://arxiv.org/abs/2402.04082
+
+T. Wong et al., "Deep incremental learning models for financial temporal tabular datasets with distribution shifts," arXiv:2303.07925 [cs.LG], Oct. 2023. [Online]. Available: https://arxiv.org/abs/2303.07925
+D. De Cock, "House Prices - Advanced Regression Techniques," Kaggle, 2016. [Online]. Available: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+Libraries Used
+- Python 3.8+
+- scikit-learn 1.0+
+- XGBoost 1.5+
+- pandas, numpy, matplotlib, seaborn
+Reproducibility:
+All models use ‘random_state = 42’ for reproducibility. The preprocessing module ensures identical data transformations across all experiments.
+
