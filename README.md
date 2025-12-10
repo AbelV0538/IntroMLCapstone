@@ -67,6 +67,8 @@ H. Sharma, H. Harsora, and B. Ogunleye, "An Optimal House Price Prediction Algor
 T. Wong et al., "Deep incremental learning models for financial temporal tabular datasets with distribution shifts," arXiv:2303.07925 [cs.LG], Oct. 2023. [Online]. Available: https://arxiv.org/abs/2303.07925
 D. De Cock, "House Prices - Advanced Regression Techniques," Kaggle, 2016. [Online]. Available: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
+Technical Report Structure and boilerplate code for each models implimentation and comparison were doen with the help of Claude's 4.5 Sonnet agent.
+
 Libraries Used
 - Python 3.8+
 - scikit-learn 1.0+
